@@ -1,4 +1,4 @@
-# Sinhala Song Search Engine
+# Sinhala Songs Search Engine
 
 ## Introduction
 
